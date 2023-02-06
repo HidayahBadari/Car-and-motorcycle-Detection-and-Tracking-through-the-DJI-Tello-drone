@@ -8,7 +8,7 @@ A demonstration video can be found here: https://youtu.be/JBI2nYOy-GQ
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JBI2nYOy-GQ/0.jpg)](https://youtu.be/JBI2nYOy-GQ)
 
-[Hidayah Badari and Hannan Fauzi]
+[Hidayah Badari and Hannan Ahmad]
 
 We've changed the code to make it specifically detect and track car or motorcycle.
 
